@@ -16,4 +16,5 @@
 | 2019-03-08 | **自定义 Handler 时如何有效地避免内存泄漏问题？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/1) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-11 | **Activity 与 Fragment 之间常见的几种通信方式？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/2) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-12 | **一般什么情况下会导致内存泄漏问题？**            | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/3) | [**AFeng**](https://github.com/Moosphan)                     |
+| 2019-03-13 | **LaunchMode 的应用场景？**                       | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/4) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 
