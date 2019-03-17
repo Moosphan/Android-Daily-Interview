@@ -18,4 +18,5 @@
 | 2019-03-12 | **一般什么情况下会导致内存泄漏问题？**            | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/3) | [**AFeng**](https://github.com/Moosphan)                     |
 | 2019-03-13 | **LaunchMode 的应用场景？**                       | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/4) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-14 | **哪些情况下会导致oom问题？**                     | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/5) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan)、[**ADrunkenLiBai**](https://github.com/ADrunkenLiBai) |
+| 2019-03-15 | **如何实现多线程中的同步？**                      | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/6) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan)、[**ADrunkenLiBai**](https://github.com/ADrunkenLiBai) |
 
