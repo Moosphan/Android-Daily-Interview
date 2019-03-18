@@ -1,17 +1,17 @@
 # Android-Daily-Interview
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者。共勉之～
 
-### 今日面试题 （2019-03-15）
+### 今日面试题 （2019-03-18）
 
 ****
 
-**如何实现多线程中的同步？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/6)
+**Android 补间动画和属性动画的区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/7)
 
 -----
 
 ### 历史汇总区
 
-| 时间       | 问题                                              | 答案                                                         | 解答者                                                       |
+| 时间       | 每日面试题                                        | 答案                                                         | 解答者                                                       |
 | ---------- | :------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2019-03-08 | **自定义 Handler 时如何有效地避免内存泄漏问题？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/1) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-11 | **Activity 与 Fragment 之间常见的几种通信方式？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/2) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
