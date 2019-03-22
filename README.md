@@ -5,7 +5,7 @@
 
 ****
 
-**BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/10)
+**BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/11)
 
 -----
 
@@ -24,4 +24,3 @@
 | 2019-03-20 | **谈谈 Handler 机制和原理？**                                | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/9) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-21 | **抽象类与接口的区别？**                                     | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/10) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-22 | **BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/11) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
-
