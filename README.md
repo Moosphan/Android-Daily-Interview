@@ -1,11 +1,11 @@
 # Android-Daily-Interview
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者。共勉之～
 
-### 今日面试题 （2019-03-22）
+### 今日面试题 （2019-03-25）
 
 ****
 
-**BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/11)
+**请简要谈一谈单例模式？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/11)
 
 -----
 
