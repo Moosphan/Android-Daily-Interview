@@ -5,7 +5,7 @@
 
 ****
 
-**请简要谈一谈单例模式？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/11)
+**请简要谈一谈单例模式？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/12)
 
 -----
 
