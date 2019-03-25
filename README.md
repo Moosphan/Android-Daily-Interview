@@ -1,5 +1,5 @@
 # Android-Daily-Interview
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者。共勉之～
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注(Watching)吧～
 
 ### 今日面试题 （2019-03-25）
 
@@ -13,6 +13,7 @@
 
 | 时间       | 每日面试题                                                   | 答案                                                         | 解答者                                                       |
 | ---------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019-03-25 | **BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/12) | [**ADrunkenLiBai**](https://github.com/ADrunkenLiBai) 、[**manondidi**](https://github.com/manondidi)、[**DaveBoy**](https://github.com/DaveBoy) |
 | 2019-03-22 | **BroadcastReceiver 与 LocalBroadcastReceiver 有什么区别？** | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/11) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan)、[**FeatherHunter**](https://github.com/FeatherHunter) |
 | 2019-03-21 | **抽象类与接口的区别？**                                     | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/10) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan)、[**manondidi**](https://github.com/manondidi) |
 | 2019-03-20 | **谈谈 Handler 机制和原理？**                                | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/9) | [**Sui**](https://github.com/Ssuiyingsen) 、[**AFeng**](https://github.com/Moosphan) |
