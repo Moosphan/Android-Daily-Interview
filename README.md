@@ -10,7 +10,7 @@
 
 ****
 
-**HashMap 的实现原理？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/16)
+**Handler中的异步消息和同步消息是什么？同步屏障又是什么？Android界面刷新操作(触发三大流程)本质是投递到主线程的消息队列中处理，为什么能保证界面刷新操作优先执行？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/17)
 
 -----
 
@@ -18,6 +18,8 @@
 
 | 时间       | 每日面试题                                                   | 答案                                                         | 解答者                                                       |
 | ---------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2019-04-01   | **Handler中的异步消息和同步消息是什么？同步屏障又是什么？Android界面刷新操作(触发三大流程)本质是投递到主线程的消息队列中处理，为什么能保证界面刷新操作优先执行？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/17)  |  |
+| 2019-03-29   | **HashMap 的实现原理？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/16)  | [**manondidi**](https://github.com/manondidi)、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-28   | **SharedPreferences 是线程安全的吗？它的 commit 和 apply 方法有什么区别?**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/15)  | [**Fritz**](https://github.com/Fritz-Xu)、[**hly**](https://github.com/leon5458) |
 | 2019-03-27   | **对于 Context，你了解多少?**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/14)  | [**manondidi**](https://github.com/manondidi)、[**AFeng**](https://github.com/Moosphan)、[**ADrunkenLiBai**](https://github.com/ADrunkenLiBai)、[**陈Mayday胖子**](https://github.com/603751448) |
 | 2019-03-26   | **Window和DecorView是什么?DecorView又是如何和Window建立联系的?**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/13)  | [**manondidi**](https://github.com/manondidi)、[**AFeng**](https://github.com/Moosphan)、[**FeatherHunter**](https://github.com/FeatherHunter) |
