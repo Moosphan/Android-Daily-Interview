@@ -10,7 +10,7 @@
 
 ****
 
-**请简述一下 String、StringBuffer 和 StringBuilder 的区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/22)
+**请简述一下 String、StringBuffer 和 StringBuilder 三者的区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/22)
 
 -----
 
@@ -18,7 +18,7 @@
 
 | 时间 | 每日面试题 | 答案           与       解析 | 解答者                                                       |
 | ---------- | :----------------------------------------------------------- | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| 2019-04-04 | **请简述一下String、StringBuffer和StringBuilder的区别？ ** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/22) |  |
+| 2019-04-08 | **请简述一下String、StringBuffer和StringBuilder三者的区别？** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/22) |  |
 | 2019-04-04   | **请回答一下Android进程间的通信方式？** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/21) | [**manondidi**](https://github.com/manondidi)、[**Sui**](https://github.com/Ssuiyingsen)、[**mo**](https://github.com/moz1q1)、 [**canye**](https://github.com/canyie) |
 | 2019-04-03   | **Serializable和Parcelable的区别?**  |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/19) | [**Sui**](https://github.com/Ssuiyingsen)、[**hanger**](https://github.com/q514414232)、[**MaXunJian**](https://github.com/maxunjian)   |
 | 2019-04-02 | **谈谈 Android 中内存优化的方式？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/18)  | [**Sui**](https://github.com/Ssuiyingsen)、[**hanger**](https://github.com/q514414232)、[**AFeng**](https://github.com/Moosphan) |
