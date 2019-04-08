@@ -4,23 +4,24 @@
 
 
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注(Watching)吧🎉
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注（Watching）吧🎉
 
-### 今日面试题 （2019-04-04）
+### 今日面试题 （2019-04-08）
 
 ****
 
-**请回答一下Android进程间的通信方式？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/21)
+**请简述一下 String、StringBuffer 和 StringBuilder 的区别？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/22)
 
 -----
 
 ### 历史汇总区
 
-| 时间       | 每日面试题                                                   | 答案                                                         | 解答者                                                       |
+| 时间 | 每日面试题 | 答案           与       解析 | 解答者                                                       |
 | ---------- | :----------------------------------------------------------- | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| 2019-04-04   | **请回答一下Android进程间的通信方式？**  |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/21) |   |
+| 2019-04-04 | **请简述一下String、StringBuffer和StringBuilder的区别？ ** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/22) |  |
+| 2019-04-04   | **请回答一下Android进程间的通信方式？** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/21) | [**manondidi**](https://github.com/manondidi)、[**Sui**](https://github.com/Ssuiyingsen)、[**mo**](https://github.com/moz1q1)、 [**canye**](https://github.com/canyie) |
 | 2019-04-03   | **Serializable和Parcelable的区别?**  |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/19) | [**Sui**](https://github.com/Ssuiyingsen)、[**hanger**](https://github.com/q514414232)、[**MaXunJian**](https://github.com/maxunjian)   |
-| 2019-04-02   | **谈谈 Android 中内存优化的方式？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/18)  | [**Sui**](https://github.com/Ssuiyingsen)、[**hanger**](https://github.com/q514414232)、[**AFeng**](https://github.com/Moosphan) |
+| 2019-04-02 | **谈谈 Android 中内存优化的方式？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/18)  | [**Sui**](https://github.com/Ssuiyingsen)、[**hanger**](https://github.com/q514414232)、[**AFeng**](https://github.com/Moosphan) |
 | 2019-04-01   | **简述一下 Android 中 UI 的刷新机制？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/17)  | [**FeatherHunter**](https://github.com/FeatherHunter) |
 | 2019-03-29   | **HashMap 的实现原理？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/16)  | [**manondidi**](https://github.com/manondidi)、[**AFeng**](https://github.com/Moosphan) |
 | 2019-03-28   | **SharedPreferences 是线程安全的吗？它的 commit 和 apply 方法有什么区别?**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/15)  | [**Fritz**](https://github.com/Fritz-Xu)、[**hly**](https://github.com/leon5458) |
