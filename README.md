@@ -3,7 +3,7 @@
 
 
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注(Watching)吧🎉
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注（Watching）吧🎉
 
 
 
@@ -22,6 +22,8 @@
 1. 参与每日答题，在 [**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
 2. 参与往期面试题的进一步解析和补充，稳固基石！
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
+
+>Tips: 贡献者专栏改版中，敬请期待～
 
 ### 历史汇总区
 
