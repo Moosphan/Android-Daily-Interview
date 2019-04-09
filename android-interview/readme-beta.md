@@ -7,11 +7,11 @@
 
 
 
-### 今日面试题 （2019-04-04）
+### 今日面试题 （2019-04-09）
 
 ****
 
-**请回答一下Android进程间的通信方式？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/21)
+**请简述从点击图标开始app的启动流程？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/24)
 
 
 
@@ -29,6 +29,7 @@
 
 | 期数 | 发布时间 | 每日面试题                                                   | 答案与解析                                   |
 | :-------: | ---------- | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| 第21期 | 2019-04-08 | **请简述一下String、StringBuffer和StringBuilder三者的区别？** |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/22) |
 | 第20期 | 2019-04-04 | **请回答一下Android进程间的通信方式？**  |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/21) |
 | 第19期 | 2019-04-03   | **Serializable和Parcelable的区别?**  |  [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/19) |
 | 第18期 | 2019-04-02   | **谈谈 Android 中内存优化的方式？**  | [#点击此处](https://github.com/Moosphan/Android-Daily-Interview/issues/18)  |
