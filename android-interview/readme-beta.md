@@ -1,23 +1,17 @@
 
 ![](https://github.com/Moosphan/Android-Daily-Interview/blob/37a5fe557c05746401211994cafe5b4a8f6c35e9/android-interview/arts/logo.png)
 
-
+##Android-Daily-Interview
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注(Watching)吧🎉
 
+##今日面试题 （2019-04-09）
 
+####**请简述从点击图标开始app的启动流程？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/24)
 
-### 今日面试题 （2019-04-09）
+##如何贡献？
 
-****
-
-**请简述从点击图标开始app的启动流程？** 👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/24)
-
-
-
-### 如何贡献？
-
-想加入这件有意义的事？很简单，你可以选择以下方式来完善和壮大这个项目：
+#####想加入这件有意义的事？很简单，你可以选择以下方式来完善和壮大这个项目：
 
 1. 参与每日答题，在 [**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
 2. 参与往期面试题的进一步解析和补充，稳固基石！
@@ -25,7 +19,7 @@
 
 > Tips: 为了内容的清晰和优雅，推荐使用 markdown 语法来进行答题。
 
-### 历史汇总区
+##历史汇总区
 
 | 期数 | 发布时间 | 每日面试题                                                   | 答案与解析                                   |
 | :-------: | ---------- | :----------------------------------------------------------- | :----------------------------------------------------------: |
