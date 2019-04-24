@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-04-24）
 
-#### [HandlerThread 的使用场景和用法？](https://github.com/Moosphan/Android-Daily-Interview/issues/37)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
+#### [针对RecyclerView你做了哪些优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/37)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
 
 ## 如何贡献？
 
@@ -32,7 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-
+- **第 33 期**：[**HandlerThread 的使用场景和用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
 - **第 32 期**：[**谈谈 ArrayList 和 LinkedList 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/36)
 - **第 31 期**：[**谈谈 Android 的事件分发机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/35) 
 - **第 30 期**：[**请谈谈你对 MVC 和 MVP 的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/33) 
