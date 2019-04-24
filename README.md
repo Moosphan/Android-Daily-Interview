@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-04-24）
 
-#### [针对RecyclerView你做了哪些优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/37)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
+#### [针对RecyclerView你做了哪些优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/38)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/38)
 
 ## 如何贡献？
 
