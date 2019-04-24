@@ -1,14 +1,24 @@
+<p align="center">
+  <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+	  <img src="https://raw.githubusercontent.com/Moosphan/SelfAssetRepository/9771fdbac7a687011cd2f286eccd97a7ffeea27b/github/images/interview_logo.png" width="400" height="216"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#主要面向对象"><img src="https://img.shields.io/badge/%E9%9D%A2%E5%90%91-Android%E5%BC%80%E5%8F%91-brightgreen.svg"></a>
+  <a href="#进度"><img src="https://img.shields.io/github/issues-raw/moosphan/Android-Daily-Interview.svg?color=%23D348a9&label=%E5%BD%93%E5%89%8D%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B0"></a>
+  <a href="#交流"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-713463651-blue.svg"></a>
+  <a href="#贡献"><img src="https://img.shields.io/badge/Welcome-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC-orange.svg" alt="如何贡献？"></a>
+  <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-wanandroid-%23095B87.svg" alt="Thanks"></a>
+</p>
 
 
-![](https://github.com/Moosphan/Android-Daily-Interview/blob/37a5fe557c05746401211994cafe5b4a8f6c35e9/android-interview/arts/logo.png)
 
-## Android-Daily-Interview
-
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注（Watching）吧:smiley:
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
 ## 今日面试题 （2019-04-24）
 
-#### HandlerThread 的使用场景和用法？👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
+#### [HandlerThread 的使用场景和用法？](https://github.com/Moosphan/Android-Daily-Interview/issues/37)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
 
 ## 如何贡献？
 
@@ -53,4 +63,16 @@
 - **第 03 期**：[**一般什么情况下会导致内存泄漏问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/3)
 - **第 02 期**：[**Activity 与 Fragment 之间常见的几种通信方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/2)
 - **第 01 期**：[**自定义 Handler 时如何有效地避免内存泄漏问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/1)
+
+## Thanks
+
+> 感谢 [**玩 Android**](https://www.wanandroid.com) 为广大安卓开发者无私提供一个比较全面的 Android 学习平台，此项目部分灵感亦来源于此。
+
+
+
+## 更多
+
+> 未完待续...
+
+
 
