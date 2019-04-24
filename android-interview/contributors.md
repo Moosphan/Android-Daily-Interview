@@ -51,3 +51,7 @@
 >
 > ![投票](https://github.com/Moosphan/Android-Daily-Interview/blob/HEAD/android-interview/arts/vote_way.png)
 
+## 其他
+
+- 小程序快速浏览入口：[Android-daily-interview-mini](https://github.com/qianxin2016/Android-Daily-Interview-wechat-mini)
+
