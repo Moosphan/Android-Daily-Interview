@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-04-24）
+## 今日面试题 （2019-04-26）
 
-#### [针对RecyclerView你做了哪些优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/38)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/38)
+#### [请说一下HashMap与HashTable的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/39)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/39)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 34 期**：[**针对RecyclerView你做了哪些优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/38)
 - **第 33 期**：[**HandlerThread 的使用场景和用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
 - **第 32 期**：[**谈谈 ArrayList 和 LinkedList 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/36)
 - **第 31 期**：[**谈谈 Android 的事件分发机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/35) 
