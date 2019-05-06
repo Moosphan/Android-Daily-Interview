@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-05-05）
 
-#### [简述JVM中类的加载机制与加载过程？](https://github.com/Moosphan/Android-Daily-Interview/issues/44)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/44)
+#### [请简述 LinkedHashMap 的工作原理和使用方式？](https://github.com/Moosphan/Android-Daily-Interview/issues/45)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/45)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 39 期**：[**简述JVM中类的加载机制与加载过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/44)
 - **第 38 期**：[**谈谈线程死锁，如何有效的避免线程死锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/43)
 - **第 37 期**：[**谈谈如何优化ListView？**](https://github.com/Moosphan/Android-Daily-Interview/issues/42)
 - **第 36 期**：[**谈谈自定义View的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/41)
