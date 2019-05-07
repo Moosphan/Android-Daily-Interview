@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-05-07）
 
-#### [谈一谈接口和抽象方法的区别以及使用场景。](https://github.com/Moosphan/Android-Daily-Interview/issues/46)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
+#### [谈一谈JAVA垃圾回收机制。](https://github.com/Moosphan/Android-Daily-Interview/issues/46)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
 
 ## 如何贡献？
 
