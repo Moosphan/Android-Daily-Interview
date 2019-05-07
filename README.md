@@ -18,7 +18,7 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-05）
+## 今日面试题 （2019-05-07）
 
 #### [谈一谈接口和抽象方法的区别以及使用场景。](https://github.com/Moosphan/Android-Daily-Interview/issues/46)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
 
