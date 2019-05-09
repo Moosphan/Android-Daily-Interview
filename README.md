@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-08）
+## 今日面试题 （2019-05-09）
 
-#### [谈一谈自定义LayoutManager的流程](https://github.com/Moosphan/Android-Daily-Interview/issues/47)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/47)
+#### [谈谈你对 Activity.runOnUiThread 的理解？](https://github.com/Moosphan/Android-Daily-Interview/issues/49)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/49)
 
 ## 如何贡献？
 
@@ -32,7 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 41 期**：[**谈一谈JAVA垃圾回收机制。**](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
+- **第 42 期**：[**谈一谈自定义LayoutManager的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/47)
+- **第 41 期**：[**谈一谈JAVA垃圾回收机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
 - **第 40 期**：[**请简述 LinkedHashMap 的工作原理和使用方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/45)
 - **第 39 期**：[**简述JVM中类的加载机制与加载过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/44)
 - **第 38 期**：[**谈谈线程死锁，如何有效的避免线程死锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/43)
