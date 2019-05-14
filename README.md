@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-13）
+## 今日面试题 （2019-05-14）
 
-#### [“equals”与“==”、“hashCode”的区别和使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/51)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/51)
+#### [谈一谈startService和bindService的区别，生命周期以及使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/53)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/53)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 45 期**：[**“equals”与“==”、“hashCode”的区别和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/51)
 - **第 44 期**：[**请列出几种常见的工厂模式并说明它们的用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/50)
 - **第 43 期**：[**谈谈你对 Activity.runOnUiThread 的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/49)
 - **第 42 期**：[**谈一谈自定义LayoutManager的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/47)
