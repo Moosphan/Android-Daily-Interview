@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-05-16）
 
-#### [synchronized和volatile关键字的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/55)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/55)
+#### [什么是冒泡排序？如何优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/56)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/56)
 
 ## 如何贡献？
 
@@ -32,7 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 47 期**：[**谈谈ArrayMap和hashMap的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/54)
+- **第 48 期**：[**说一下 synchronized 和 volatile 关键字的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/55)
+- **第 47 期**：[**谈谈ArrayMap和HashMap的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/54)
 - **第 46 期**：[**谈一谈startService和bindService的区别，生命周期以及使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/53)
 - **第 45 期**：[**“equals”与“==”、“hashCode”的区别和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/51)
 - **第 44 期**：[**请列出几种常见的工厂模式并说明它们的用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/50)
