@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-20）
+## 今日面试题 （2019-05-21）
 
-#### [分别介绍下你所知道Android的几种存储方式？](https://github.com/Moosphan/Android-Daily-Interview/issues/57)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/57)
+#### [谈谈你对Android性能优化方面的了解？](https://github.com/Moosphan/Android-Daily-Interview/issues/58)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/58)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 50 期**：[**分别介绍下你所知道Android的几种存储方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/57)
 - **第 49 期**：[**什么是冒泡排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/56)
 - **第 48 期**：[**说一下 synchronized 和 volatile 关键字的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/55)
 - **第 47 期**：[**谈谈ArrayMap和HashMap的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/54)
