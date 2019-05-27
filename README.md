@@ -32,7 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 54 期**：[**分别讲讲 final、static 和 synchronized 可以修饰什么，以及修饰后的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/62)
+- **第 54 期**：[**什么是 RemoteViews？使用场景有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/62)
 - **第 53 期**：[**分别讲讲 final、static 和 synchronized 可以修饰什么，以及修饰后的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/61)
 - **第 52 期**：[**请用 Java 实现一个简单的单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/59)
 - **第 51 期**：[**谈谈你对Android性能优化方面的了解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/58)
