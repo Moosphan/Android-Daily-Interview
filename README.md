@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-24）
+## 今日面试题 （2019-05-27）
 
-#### [什么是 RemoteViews？使用场景有哪些？](https://github.com/Moosphan/Android-Daily-Interview/issues/62)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/62)
+#### [谈谈线程阻塞的原因？](https://github.com/Moosphan/Android-Daily-Interview/issues/63)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/63)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 54 期**：[**分别讲讲 final、static 和 synchronized 可以修饰什么，以及修饰后的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/62)
 - **第 53 期**：[**分别讲讲 final、static 和 synchronized 可以修饰什么，以及修饰后的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/61)
 - **第 52 期**：[**请用 Java 实现一个简单的单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/59)
 - **第 51 期**：[**谈谈你对Android性能优化方面的了解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/58)
