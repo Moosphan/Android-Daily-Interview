@@ -52,3 +52,7 @@
 - **第 02 期**：[**Activity 与 Fragment 之间常见的几种通信方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/2)
 - **第 01 期**：[**自定义 Handler 时如何有效地避免内存泄漏问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/1)
 
+## ADI 冲刺计划
+为了方便广大 Android 开发者的阅读和理解，特推出 **ADI 冲刺计划（Android Daily Interview）**，即**面试题冲刺计划**。大家可以选择自己擅长的某一期面试题进行答案解析统一归纳整理，成为**开源贡献者**的一员！在此之前，请务必阅读以下注意事项：
+
+
