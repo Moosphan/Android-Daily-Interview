@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-05-30）
+## 今日面试题 （2019-05-31）
 
-#### [Java 中使用多线程的方式有哪些？](https://github.com/Moosphan/Android-Daily-Interview/issues/66)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/66)
+#### [请简述一下什么是 Kotlin？它有哪些特性？](https://github.com/Moosphan/Android-Daily-Interview/issues/67)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/67)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 58 期**：[**Java 中使用多线程的方式有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/66)
 - **第 57 期**：[**什么是反射机制？反射机制的应用场景有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/65)
 - **第 56 期**：[**谈一谈ArrayList的扩容？**](https://github.com/Moosphan/Android-Daily-Interview/issues/64)
 - **第 55 期**：[**谈谈线程阻塞的原因？**](https://github.com/Moosphan/Android-Daily-Interview/issues/63)
