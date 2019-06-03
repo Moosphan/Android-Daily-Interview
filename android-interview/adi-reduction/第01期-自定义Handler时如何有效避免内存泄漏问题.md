@@ -1,3 +1,7 @@
+## 第 01 期
+
+> [**自定义Handler时如何有效避免内存泄漏问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/1)
+
 在 Android 开发过程中，**`Handler`** 是我们经常接触到的概念，它一般有两个主要作用：
 
 - 推送未来某个时间点将要执行的 `Message` 或者 `Runnable` 到消息队列。
@@ -91,7 +95,7 @@ public class SampleActivity extends Activity {
 由于本题考查的是自定义 Handler 的解决方式，同时这也是官方推荐的方式。当然，我们也可以通过组件的生命周期来及时清除正在进行的消息：
 
 ```java
-override void onDestroy() {
+@override void onDestroy() {
         super.onDestroy();
         if (mHandler != null){
             mHandler.removeCallbacksAndMessages(null);
@@ -103,5 +107,5 @@ override void onDestroy() {
 
 #### 题外话
 
-> 本项目的初衷是**帮助 Android 开发者更高效、直接地理解每一道面试题**，如果你有好的创意或者想法，欢迎提交你的看法和修改意见。你可以通过[完善答题区](https://github.com/Moosphan/Android-Daily-Interview/issues/1)或者发起 [PR](https://github.com/Moosphan/Android-Daily-Interview/pulls) 来完善解题思路和答案🌈。
+> 本项目的初衷是**帮助 Android 开发者更高效、直接地理解每一道面试题**，如果你有好的创意或者想法，欢迎提交你的看法和修改意见。你可以通过[完善答题区](https://github.com/Moosphan/Android-Daily-Interview/issues/1)或者发起 [PR](https://github.com/Moosphan/Android-Daily-Interview/pulls) 来完善本题的解题思路和答案🌈。
 
