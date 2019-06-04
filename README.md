@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-06-03）
+## 今日面试题 （2019-06-04）
 
-#### [谈谈Error和Exception的区别](https://github.com/Moosphan/Android-Daily-Interview/issues/68)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/68)
+#### [请谈谈 Thread 中 run() 与 start() 的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/69)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/69)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 60 期**：[**谈谈Error和Exception的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/68)
 - **第 59 期**：[**请简述一下什么是 Kotlin？它有哪些特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/67)
 - **第 58 期**：[**Java 中使用多线程的方式有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/66)
 - **第 57 期**：[**什么是反射机制？反射机制的应用场景有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/65)
