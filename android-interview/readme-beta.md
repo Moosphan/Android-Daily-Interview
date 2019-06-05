@@ -19,7 +19,7 @@
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
-## 历史汇总区
+## 历史讨论区
 - **第 31 期**：[**谈谈 Android 的事件分发机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/35) 
 - **第 30 期**：[**请谈谈你对 MVC 和 MVP 的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/33) 
 - **第 29 期**：[**请简述一下 Android 7.0 的新特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/31) 
@@ -52,7 +52,18 @@
 - **第 02 期**：[**Activity 与 Fragment 之间常见的几种通信方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/2)
 - **第 01 期**：[**自定义 Handler 时如何有效地避免内存泄漏问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/1)
 
+## 往期答案汇总
+
+|                            :memo:                            | :art: | :jack_o_lantern: | :lollipop: | :tada: |
+| :----------------------------------------------------------: | :---: | :--------------: | :--------: | :----: |
+| [**01期**](https://github.com/Moosphan/Android-Daily-Interview/blob/f66c49f4733eec1d2f3161dbc537f2f0bd0da9ac/android-interview/adi-reduction/%E7%AC%AC01%E6%9C%9F-%E8%87%AA%E5%AE%9A%E4%B9%89Handler%E6%97%B6%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E9%81%BF%E5%85%8D%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98.md) |       |                  |            |        |
+|                                                              |       |                  |            |        |
+|                                                              |       |                  |            |        |
+
+
+
 ## ADI 冲刺计划
+
 为了方便广大 Android 开发者的阅读和理解，特推出 **ADI 冲刺计划（Android Daily Interview）**，即**面试题冲刺计划**。大家可以选择自己擅长的某一期面试题进行答案解析统一归纳整理，成为**开源贡献者**的一员！在此之前，请务必阅读以下注意事项：
 
 
