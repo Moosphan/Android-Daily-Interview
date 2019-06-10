@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-06-06）
+## 今日面试题 （2019-06-10）
 
-#### [请简述 Http 与 Https 的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/71)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/71)
+#### [说说项目中用到的设计模式和使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/72)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/72)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 63 期**：[**请简述 Http 与 Https 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/71)
 - **第 62 期**：[**Android 中的图片优化方案？**](https://github.com/Moosphan/Android-Daily-Interview/issues/70)
 - **第 61 期**：[**请谈谈 Thread 中 run() 与 start() 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/69)
 - **第 60 期**：[**谈谈 Error 和 Exception 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/68)
