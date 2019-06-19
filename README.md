@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-06-18）
+## 今日面试题 （2019-06-19）
 
-### [说一说https,udp,socket区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/78)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/78)
+### [简要说说 LruCache 的原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/79)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/79)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 70 期**：[**说一说https,udp,socket区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/78)
 - **第 69 期**：[**谈谈如何重写equals()方法？为什么还要重写hashCode()？**](https://github.com/Moosphan/Android-Daily-Interview/issues/77)
 - **第 68 期**：[**Kotlin 中注解 @JvmOverloads 的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/76)
 - **第 67 期**：[**Java 中深拷贝与浅拷贝的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/75)
