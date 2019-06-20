@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-06-20）
 
-### [谈谈怎么给apk瘦身？？](https://github.com/Moosphan/Android-Daily-Interview/issues/80)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
+### [谈谈怎么给apk瘦身？](https://github.com/Moosphan/Android-Daily-Interview/issues/80)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
 
 ## 如何贡献？
 
