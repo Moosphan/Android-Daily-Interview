@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-06-24）
+## 今日面试题 （2019-06-25）
 
-### [Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?](https://github.com/Moosphan/Android-Daily-Interview/issues/82)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
+### [谈谈ThreadLocal用法和原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/83)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/83)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 74 期**：[**Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?**](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
 - **第 73 期**：[**什么是代理模式？如何使用？Android源码中的代理模式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/81)
 - **第 72 期**：[**谈谈怎么给 Apk 瘦身？**](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
 - **第 71 期**：[**简要说说 LruCache 的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/79)
