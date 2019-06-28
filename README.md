@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-06-27）
+## 今日面试题 （2019-06-28）
 
-### [谈谈你是如何优化App启动过程的？](https://github.com/Moosphan/Android-Daily-Interview/issues/85)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/85)
+### [谈一谈单例模式，建造者模式，工厂模式的使用场景？如何合理选择？](https://github.com/Moosphan/Android-Daily-Interview/issues/86)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/86)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 77 期**：[**谈谈你是如何优化App启动过程的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/85)
 - **第 76 期**：[**JVM、Dalvik、ART三者的原理和区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/84)
 - **第 75 期**：[**谈谈ThreadLocal用法和原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/83)
 - **第 74 期**：[**Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?**](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
