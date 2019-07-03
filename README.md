@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-07-03）
 
-### [如何反转一个单链表？](https://github.com/Moosphan/Android-Daily-Interview/issues/88)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/88)
+### [如何反转一个单链表？](https://github.com/Moosphan/Android-Daily-Interview/issues/89)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/89)
 
 ## 如何贡献？
 
