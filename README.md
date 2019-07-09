@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-08）
+## 今日面试题 （2019-07-09）
 
-### [谈谈如何适配更多机型的？](https://github.com/Moosphan/Android-Daily-Interview/issues/92)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/92)
+### [为什么在子线程中创建Handler会抛异常？](https://github.com/Moosphan/Android-Daily-Interview/issues/93)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/93)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 84 期**：[**谈谈如何适配更多机型的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/92)
 - **第 83 期**：[**子线程能否更新UI？**](https://github.com/Moosphan/Android-Daily-Interview/issues/91)
 - **第 82 期**：[**Kotlin中List与MutableList的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/90)
 - **第 81 期**：[**如何反转一个单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/89)
