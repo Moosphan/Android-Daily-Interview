@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-10）
+## 今日面试题 （2019-07-11）
 
-### [请简述一次http网络请求的过程？](https://github.com/Moosphan/Android-Daily-Interview/issues/94)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/94)
+### [谈谈布局优化的技巧？](https://github.com/Moosphan/Android-Daily-Interview/issues/95)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/95)
 
 ## 如何贡献？
 
@@ -32,7 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 8 5期**：[**为什么在子线程中创建Handler会抛异常？**](https://github.com/Moosphan/Android-Daily-Interview/issues/93)
+- **第 86 期**：[**请简述一次http网络请求的过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/94)
+- **第 85期**：[**为什么在子线程中创建Handler会抛异常？**](https://github.com/Moosphan/Android-Daily-Interview/issues/93)
 - **第 84 期**：[**谈谈如何适配更多机型的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/92)
 - **第 83 期**：[**子线程能否更新UI？**](https://github.com/Moosphan/Android-Daily-Interview/issues/91)
 - **第 82 期**：[**Kotlin中List与MutableList的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/90)
