@@ -14,13 +14,13 @@
 
 
 
-
+----------------
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-19）
+## 今日面试题 （2019-07-22）
 
-### [谈谈你对Kotlin中的 data 关键字的理解？相比于普通类有哪些特点？](https://github.com/Moosphan/Android-Daily-Interview/issues/101)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/101)
+### [谈谈App的电量优化？](https://github.com/Moosphan/Android-Daily-Interview/issues/102)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/102)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 93 期**：[**谈谈你对Kotlin中的 data 关键字的理解？相比于普通类有哪些特点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/101)
 - **第 92 期**：[**简单介绍下ContentProvider是如何实现数据共享的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/100)
 - **第 91 期**：[**说一下线程的几种状态？**](https://github.com/Moosphan/Android-Daily-Interview/issues/99)
 - **第 90 期**：[**Service 如何进行保活？**](https://github.com/Moosphan/Android-Daily-Interview/issues/98)
