@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-07-23）
 
-### [Java 线程中notify 和 notifyAll有什么区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/104)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/104)
+### [谈谈Java 线程中notify 和 notifyAll有什么区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/104)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/104)
 
 ## 如何贡献？
 
