@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-24）
+## 今日面试题 （2019-07-25）
 
-### [请谈谈你对Binder机制的理解？](https://github.com/Moosphan/Android-Daily-Interview/issues/105)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/105)
+### [什么是线程池？如何创建一个线程池？](https://github.com/Moosphan/Android-Daily-Interview/issues/106)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/106)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 96 期**：[**请谈谈你对Binder机制的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/105)
 - **第 95 期**：[**谈谈Java 线程中 notify 和 notifyAll有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/104)
 - **第 94 期**：[**谈谈App的电量优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/102)
 - **第 93 期**：[**谈谈你对Kotlin中的 data 关键字的理解？相比于普通类有哪些特点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/101)
