@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-25）
+## 今日面试题 （2019-07-26）
 
-### [什么是线程池？如何创建一个线程池？](https://github.com/Moosphan/Android-Daily-Interview/issues/106)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/106)
+### [什么是委托属性？请简要说说其使用场景和原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/107)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/107)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 97 期**：[**什么是线程池？如何创建一个线程池？**](https://github.com/Moosphan/Android-Daily-Interview/issues/106)
 - **第 96 期**：[**请谈谈你对Binder机制的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/105)
 - **第 95 期**：[**谈谈Java 线程中 notify 和 notifyAll有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/104)
 - **第 94 期**：[**谈谈App的电量优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/102)
