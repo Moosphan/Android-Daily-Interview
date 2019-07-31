@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-07-30）
+## 今日面试题 （2019-07-31）
 
-### [谈谈代码混淆的步骤？](https://github.com/Moosphan/Android-Daily-Interview/issues/109)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/109)
+### [谈一谈java线程常见的几种锁？](https://github.com/Moosphan/Android-Daily-Interview/issues/110)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/110)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 100 期**：[**谈谈代码混淆的步骤？**](https://github.com/Moosphan/Android-Daily-Interview/issues/109)
 - **第 99 期**：[**如何保证线程安全？**](https://github.com/Moosphan/Android-Daily-Interview/issues/108)
 - **第 98 期**：[**什么是委托属性？请简要说说其使用场景和原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/107)
 - **第 97 期**：[**什么是线程池？如何创建一个线程池？**](https://github.com/Moosphan/Android-Daily-Interview/issues/106)
