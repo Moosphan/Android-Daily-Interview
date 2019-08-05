@@ -1,0 +1,60 @@
+[TOC]
+
+## ADIF 冲刺计划
+
+为了方便广大 Android 开发者的阅读和理解，特推出 **ADIF 冲刺计划（Android Daily Interview Fighting）**，即**面试题冲刺计划**。大家可以选择自己擅长的面试题，并对答案进行统一归纳整理，成为**开源贡献者**的一员！在此之前，请务必阅读以下注意事项：
+
+#### #如何选题？
+
+首先，进入[讨论区](https://github.com/Moosphan/Android-Daily-Interview/issues)，根据**标签**来选择自己擅长或者感兴趣的主题：
+
+![企业微信截图_26640653-1c5d-48ea-8b25-a64a6d02ec76](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_26640653-1c5d-48ea-8b25-a64a6d02ec76.png)
+
+
+
+然后，可以查看当前标签下的所有面试题：
+
+![企业微信截图_46df2699-ce18-4841-a59d-1c72306ed70d](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_46df2699-ce18-4841-a59d-1c72306ed70d.png)
+
+现在，你只需要选择适合自己的题就可以了。需要注意的是，如果该题显示“认领中”或者“校验中”标签，那么说明该题已被他人认领，请选择其他面试题。选择好面试题之后，可以前往[**认领区**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)认领该面试题。
+
+#### #如何认领？
+
+很简单，只需要前往[**认领区**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，并在下方按照以下格式统一回复认领即可：
+
+```markdown
+认领人：[xxx](这是认领者个人GitHub地址)
+认领题目：[题目内容](这是题目在issue中对应的链接)
+题目期数：第 xxx 期
+贡献形式：归纳/校验
+完成时间：2019.xx.xx
+```
+
+举个栗子吧：
+
+![企业微信截图_8071c76e-be14-4e20-98dd-bba517175828](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_8071c76e-be14-4e20-98dd-bba517175828.png)
+
+最后再次声明：**请大家准照格式来认领，按照格式来认领，按照格式认领！**重要的事情说三遍！
+
+#### #如何归纳和校验？
+
+之所以将**归纳**和**校验**放在一起来说，是因为它们都可简单概括为一句话，即：通过 PR（Pull requests）来参与这个过程。对于经常使用 GitHub 的人，PR 其实很简单，如果你刚接触 GitHub 不久，建议先去网上简单了解一下 Git 的使用流程以及 Pull requests 的一般流程再来进行面试题的归纳和校验。
+
+- **归纳过程**：
+
+  参与某道面试题归纳总结的第一个认领者即为该题的**归纳者**。后续参与该题的勘误、完善和扩展的人员皆为**校验者**。
+
+  1. 首先，将本项目 fork - clone 到本地之后，进入 ***android-interview/adi-reduction/*** 目录下，选择自己题目对应的文件进行总结、归纳编辑。为了利于后期维护和整理，我们已统一设定好了文件中的编辑格式，请大家按照 Markdown 格式来进行编辑！没有了解过的可以先去了解一下：[Markdown 完全入门](https://zhuanlan.zhihu.com/p/33698205)，作为当下技术人员，Markdown 已经作为我们不可或缺的软技能之一了。
+  2. 根据题目和讨论区中大家针对该题的回答来归纳总结和完善。每个人的知识面和对于问题思考的角度不同，也自然会让每个人的看法不一。但我们希望：宁愿查资料或者跳过自己不确定的知识点，也不要去强下结论。
+  3. 请大家尽量以**通俗易懂**的语言来阐述和归纳问题，可以针对所选题做适当的扩展。
+  4. 最后，提交 PR，我看到后会做相应审核，没什么大问题就可以合并到现有项目中。至此，你就是我们这个伟大项目的贡献者和践行者之一啦😁。
+
+- 校验过程：
+
+  归纳者针对某道题的总结可能会有一些小问题或者瑕疵，这是一件很正常的事情。例如：Android版本更新，系统源码的调整等等，这时候就需要校验者这个身份了。
+
+  其实校验者要做的和上面的步骤差不多，只不过需要在前者的基础上做小幅度修正、完善和扩展，最终通过 PR 的方式同样就作为我们维护者一员啦。
+
+#### #写在最后
+
+我们深知，一个人的力量是有限的；但我们深信，众人的力量以及这个项目的**意义**是无限的！所以，我们诚心希望更多人加入进来，一起壮大这个浩大工程。不论是维护也好，答题也好又或是打卡也好，我们相信：只要坚持下来✊，长此以往，大家定会看到一个**不凡的自己**！

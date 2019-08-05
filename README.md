@@ -16,7 +16,7 @@
 
 ----------------
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
 ## 今日面试题 （2019-08-05）
 
@@ -26,8 +26,8 @@
 
 想加入这件有意义的事，并成为[**贡献者**](https://github.com/Moosphan/Android-Daily-Interview/blob/HEAD/android-interview/contributors.md)一员？很简单，你可以选择以下方式来完善和壮大这个项目：
 
-1. 参与每日答题，在 [**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
-2. 参与往期面试题的进一步解析和补充，稳固基石！
+1. 参与每日答题，在[**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
+2. 参与[**往期面试题的归纳、总结、完善或者扩展**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，稳固基石！
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
