@@ -18,11 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-08-02）
+## 今日面试题 （2019-08-05）
 
-> ***100天纪念题（开放性）***
-
-### [你知道哪些提升开发效率的骚操作？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/112)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/112)
+### [谈谈如何对网络请求进行优化？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/114)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/114)
 
 ## 如何贡献？
 
@@ -34,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 103 期**：[**你知道哪些提升开发效率的骚操作？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/112)
 - **第 102 期**：[**如何处理大图的加载？**](https://github.com/Moosphan/Android-Daily-Interview/issues/111)
 - **第 101 期**：[**谈一谈java线程常见的几种锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/110)
 - **第 100 期**：[**谈谈代码混淆的步骤？**](https://github.com/Moosphan/Android-Daily-Interview/issues/109)
