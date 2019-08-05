@@ -4,21 +4,21 @@
 
 为了方便广大 Android 开发者的阅读和理解，特推出 **ADIF 冲刺计划（Android Daily Interview Fighting）**，即**面试题冲刺计划**。大家可以选择自己擅长的面试题，并对答案进行统一归纳整理，成为**开源贡献者**的一员！在此之前，请务必阅读以下注意事项：
 
-#### #如何选题？
+### 如何选题？
 
 首先，进入[讨论区](https://github.com/Moosphan/Android-Daily-Interview/issues)，根据**标签**来选择自己擅长或者感兴趣的主题：
 
-![企业微信截图_26640653-1c5d-48ea-8b25-a64a6d02ec76](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_26640653-1c5d-48ea-8b25-a64a6d02ec76.png)
+![](https://github.com/Moosphan/SelfAssetRepository/blob/f78220acba0f7070b25ddc5c62a6311e4476959d/github/images/label_types.png)
 
 
 
 然后，可以查看当前标签下的所有面试题：
 
-![企业微信截图_46df2699-ce18-4841-a59d-1c72306ed70d](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_46df2699-ce18-4841-a59d-1c72306ed70d.png)
+![46df2699-ce18-4841-a59d-1c72306ed70d](https://github.com/Moosphan/SelfAssetRepository/blob/f78220acba0f7070b25ddc5c62a6311e4476959d/github/images/scan_type.png)
 
 现在，你只需要选择适合自己的题就可以了。需要注意的是，如果该题显示“认领中”或者“校验中”标签，那么说明该题已被他人认领，请选择其他面试题。选择好面试题之后，可以前往[**认领区**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)认领该面试题。
 
-#### #如何认领？
+### 如何认领？
 
 很简单，只需要前往[**认领区**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，并在下方按照以下格式统一回复认领即可：
 
@@ -32,11 +32,11 @@
 
 举个栗子吧：
 
-![企业微信截图_8071c76e-be14-4e20-98dd-bba517175828](/Users/moos/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_8071c76e-be14-4e20-98dd-bba517175828.png)
+![8071c76e-be14-4e20-98dd-bba517175828](https://github.com/Moosphan/SelfAssetRepository/blob/f78220acba0f7070b25ddc5c62a6311e4476959d/github/images/get_question.png)
 
-最后再次声明：**请大家准照格式来认领，按照格式来认领，按照格式认领！**重要的事情说三遍！
+最后再次声明：**请大家准照格式来认领，按照格式来认领，按照格式认领**！重要的事情说三遍！
 
-#### #如何归纳和校验？
+### 如何归纳和校验？
 
 之所以将**归纳**和**校验**放在一起来说，是因为它们都可简单概括为一句话，即：通过 PR（Pull requests）来参与这个过程。对于经常使用 GitHub 的人，PR 其实很简单，如果你刚接触 GitHub 不久，建议先去网上简单了解一下 Git 的使用流程以及 Pull requests 的一般流程再来进行面试题的归纳和校验。
 
@@ -55,6 +55,6 @@
 
   其实校验者要做的和上面的步骤差不多，只不过需要在前者的基础上做小幅度修正、完善和扩展，最终通过 PR 的方式同样就作为我们维护者一员啦。
 
-#### #写在最后
+### 写在最后
 
-我们深知，一个人的力量是有限的；但我们深信，众人的力量以及这个项目的**意义**是无限的！所以，我们诚心希望更多人加入进来，一起壮大这个浩大工程。不论是维护也好，答题也好又或是打卡也好，我们相信：只要坚持下来✊，长此以往，大家定会看到一个**不凡的自己**！
+我们深知，一个人的力量是有限的；但我们深信，众人的力量以及这个项目的**意义**是无限的！所以，我们诚心希望更多人加入进来，一起壮大这个浩大工程。不论是维护也好，答题也好又或是打卡也好，我们相信：只要坚持下来✊，长此以往，大家定会看到一个**不凡的自己**！:rainbow:
