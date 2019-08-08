@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-07）
+## 今日面试题 （2019-08-08）
 
-### [请举例说明Kotlin中with与apply函数的应用场景和区别？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/116)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/116)
+### [谈一谈线程sleep()和wait()的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/117)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/117)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 106 期**：[**请举例说明Kotlin中with与apply函数的应用场景和区别？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/116)
 - **第 105 期**：[**说下切换横竖屏时Activity的生命周期？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/115)
 - **第 104 期**：[**谈谈如何对网络请求进行优化？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/114)
 - **第 103 期**：[**你知道哪些提升开发效率的骚操作？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/112)
