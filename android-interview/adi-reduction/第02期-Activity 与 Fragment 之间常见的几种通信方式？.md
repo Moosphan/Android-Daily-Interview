@@ -1,18 +1,22 @@
-原题链接：[第二期：Activity 与 Fragment 之间常见的几种通信方式?](https://github.com/Moosphan/Android-Daily-Interview/issues/2)
+## 第 02 期
 
-开始介绍方法之前，先借用之前lx36301766 写在答案里的一句话，我个人觉得写的很到位：
-> 说到底就是两个普通的JAVA对象相互都持有对方的引用，直接回调就成，哪还需要什么别的通信方式，很简单的问题别搞复杂了
+> [**Activity 与 Fragment 之间常见的几种通信方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/2)
+
+开始介绍方法之前，先借用之前 lx36301766 写在答案里的一句话，我个人觉得写的很到位：
+> 说到底就是两个普通的 Java 对象相互都持有对方的引用，直接回调就成，哪还需要什么别的通信方式，很简单的问题别搞复杂了。
 
 大家都知道java是面向对象的编程语言。只要拿到对象，想做什么操作其实很简单。好开始正文。
 
-从两个方面开始说
-* Activity与Fragment通信
-* Fragemnt与Activity通信
+从两个方面开始说：
+* Activity 与 Fragment 通信
+* Fragment 与 Activity 通信
 
-### 1 Activity与Fragment通信
-#### 1.1 广播
-这个就不写，相信大家都会
-#### 1.2 对象调用public方法
+### Activity与Fragment通信
+#### 1. 广播
+
+这个就不写，相信大家都会。
+
+#### 2. 对象调用 public 方法
 
 
 ```java
@@ -36,7 +40,7 @@ public class TestFragmet extends Fragmenyt{
     }
 }
 ```
-#### 1.3 接口
+#### 3. 接口
 ```java
     public class TestActivity extends Activity{
 
@@ -64,8 +68,8 @@ public class TestFragmet extends Fragmenyt{
         void doTest();
     }
 ```
-#### 1.4 观察者
-这里模拟一个场景，用户在activity里登录状态发生了改变，fragment展示退出登录的UI。我真实项目里也是采用的观察者模式管理登录状态,因为登录状态的改变牵连到一系列的改变。
+#### 4. 观察者
+这里模拟一个场景，用户在 Activity 里登录状态发生了改变，Fragment 展示退出登录的 UI。我真实项目里也是采用的观察者模式管理登录状态,因为登录状态的改变牵连到一系列的改变。
 
 ```java
     public class TestActivity extends Activity {
@@ -139,13 +143,13 @@ public class TestFragmet extends Fragmenyt{
         void loginStatusChange(int status);
     }
 ```
-#### 1.5 eventbus
-也没什么好说的，相信大家都用过
-### 2 Fragemnt与Activity通信
+#### 5. EventBus
+也没什么好说的，相信大家都用过。
+### Fragment与Activity通信
 
-#### 2.1 广播
-同1.1
-#### 2.2 对象调用public方法
+#### 1. 广播
+同上
+#### 2. 对象调用 public 方法
 ```java
     public class TestActivity extends Activity {
         
@@ -176,7 +180,7 @@ public class TestFragmet extends Fragmenyt{
         }
     }
 ```
-#### 2.3 接口
+#### 3. 接口
 ```java
     public class TestActivity extends Activity implements ITest{
         
@@ -215,8 +219,8 @@ public class TestFragmet extends Fragmenyt{
         void doTest();
     }
 ```
-#### 2.4 观察者
-同1.4，只不过这次是fragmnet改变用户登录状态，activiy观察事件而已。
+#### 4. 观察者
+同1.4，只不过这次是 Fragment 改变用户登录状态，Activiy 观察事件而已。
 ```java
     public class TestActivity extends Activity implements LoginObserver {
 
@@ -285,12 +289,12 @@ public class TestFragmet extends Fragmenyt{
     }
 
 ```
-#### 2.5 eventbus
+#### 5. EventBus
 自行百度吧，这个很简单。
 
 
 ### 题外话
-大家可能发现接口和对象调用public方法出奇的相似，那么为什么要多次一举写个接口呢？大家可以点击一下TestFragment#test() 里的iTest.doTest();会发现跳转到了ITest接口里，而点击TestFragment#test()里的activity.doTest();确实跳转到了TestActivity里。到这里相信大家就看出接口的一个妙用，隐藏实现，当然不是完全隐藏，你可以通过搜索哪里实现继续查看。当然接口还有其他功能，就不赘述了。
+大家可能发现接口和对象调用 public 方法出奇的相似，那么为什么要多次一举写个接口呢？大家可以点击一下TestFragment#test() 方法里的 `iTest.doTest();` 会发现跳转到了 ITest 接口里，而点击 TestFragment#test() 里的 activity.doTest(); 确实跳转到了TestActivity里。到这里相信大家就看出接口的一个妙用，隐藏实现，当然不是完全隐藏，你可以通过搜索哪里实现继续查看。当然接口还有其他功能，就不赘述了。
 
 
-很少写博客，也好久没写小作文。肯定有解释不清楚的地方，欢迎大家提宝贵的意见给我，也可提交合并请求。
+很少写博客，肯定有解释不清楚的地方，欢迎大家提宝贵的意见给我，也可提交合并请求。
