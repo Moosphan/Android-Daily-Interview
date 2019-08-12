@@ -32,7 +32,7 @@ public class TestActivity extends AppCompatActivity{
 ```
 
 ```java
-public class TestFragmet extends Fragmenyt{
+public class TestFragmet extends Fragment{
     private TestActivity activity;
     
     public void doTest(){
@@ -294,7 +294,7 @@ public class TestFragmet extends Fragmenyt{
 
 
 ### 题外话
-大家可能发现接口和对象调用 public 方法出奇的相似，那么为什么要多次一举写个接口呢？大家可以点击一下TestFragment#test() 方法里的 `iTest.doTest();` 会发现跳转到了 ITest 接口里，而点击 TestFragment#test() 里的 activity.doTest(); 确实跳转到了TestActivity里。到这里相信大家就看出接口的一个妙用，隐藏实现，当然不是完全隐藏，你可以通过搜索哪里实现继续查看。当然接口还有其他功能，就不赘述了。
+大家可能发现接口和对象调用 public 方法出奇的相似，那么为什么要多次一举写个接口呢？大家可以点击一下TestFragment#test() 方法里的 `iTest.doTest();` 会发现跳转到了 ITest 接口里，而点击 TestFragment#test() 里的 activity.doTest(); 却是跳转到了TestActivity里。到这里相信大家就看出接口的一个妙用，隐藏实现，当然不是完全隐藏，你可以通过搜索哪里实现继续查看。当然接口还有其他功能，就不赘述了。
 
 
 很少写博客，肯定有解释不清楚的地方，欢迎大家提宝贵的意见给我，也可提交合并请求。
