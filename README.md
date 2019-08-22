@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-21）
+## 今日面试题 （2019-08-22）
 
-### [*`View.post()`* 为什么可以获取到宽高信息？](https://github.com/Moosphan/Android-Daily-Interview/issues/126)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/126)
+### [说一说数组和链表的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/127)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/127)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 116 期**：[***`View.post()`* 为什么可以获取到宽高信息？**](https://github.com/Moosphan/Android-Daily-Interview/issues/126)
 - **第 115 期**：[**手写二叉树结构？**](https://github.com/Moosphan/Android-Daily-Interview/issues/125)
 - **第 114 期**：[**Kotlin中 Unit 类型的作用以及与Java中 Void 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/124)
 - **第 113 期**：[**谈谈如何对WebView进行优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/123)
