@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-27）
+## 今日面试题 （2019-08-28）
 
-### [为什么推荐用SparseArray代替HashMap？](https://github.com/Moosphan/Android-Daily-Interview/issues/130)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/130)
+### [谈一谈获取View宽高的几种方法？](https://github.com/Moosphan/Android-Daily-Interview/issues/131)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 120 期**：[**为什么推荐用SparseArray代替HashMap？**](https://github.com/Moosphan/Android-Daily-Interview/issues/130)
 - **第 119 期**：[**谈一谈TCP/IP三次握手，四次挥手？**](https://github.com/Moosphan/Android-Daily-Interview/issues/129)
 - **第 118 期**：[**Kotlin 中 infix 关键字的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/128)
 - **第 117 期**：[**说一说数组和链表的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/127)
@@ -161,6 +162,5 @@
 ## 最后
 
 > 建立这个项目的初衷是想大家每天以**答题打卡**的方式来巩固基础知识和查漏补缺。我相信，如果每天能够坚持打卡，不出一个月定能意识到自己的成长。因此，对于想要和我们一样坚持的同学，欢迎来加群探讨，群号**713463651**，请特别备注：**坚持打卡**。
-
 
 
