@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-08-28）
+## 今日面试题 （2019-08-29）
 
-### [谈一谈获取View宽高的几种方法？](https://github.com/Moosphan/Android-Daily-Interview/issues/131)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
+### [请谈谈你是如何进行多渠道打包的？](https://github.com/Moosphan/Android-Daily-Interview/issues/132)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/132)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 130 期**：[**谈一谈获取View宽高的几种方法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
 - **第 120 期**：[**为什么推荐用SparseArray代替HashMap？**](https://github.com/Moosphan/Android-Daily-Interview/issues/130)
 - **第 119 期**：[**谈一谈TCP/IP三次握手，四次挥手？**](https://github.com/Moosphan/Android-Daily-Interview/issues/129)
 - **第 118 期**：[**Kotlin 中 infix 关键字的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/128)
