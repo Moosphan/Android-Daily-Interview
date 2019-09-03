@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-09-02）
+## 今日面试题 （2019-09-03）
 
-### [Activity中onNewIntent方法的调用时机和使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/138)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/138)
+### [MVP中你是如何处理Presenter层以防止内存泄漏的？](https://github.com/Moosphan/Android-Daily-Interview/issues/139)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/139)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 133 期**：[**Activity中onNewIntent方法的调用时机和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/138)
 - **第 132 期**：[**什么是悲观锁和乐观锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/133)
 - **第 131 期**：[**请谈谈你是如何进行多渠道打包的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/132)
 - **第 130 期**：[**谈一谈获取View宽高的几种方法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
