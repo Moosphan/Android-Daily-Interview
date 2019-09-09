@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-09-05）
+## 今日面试题 （2019-09-09）
 
-### [请谈谈Java的内存回收机制？](https://github.com/Moosphan/Android-Daily-Interview/issues/141)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/141)
+### [请谈谈策略模式原理及其应用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/143)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/143)
 
 ## 如何贡献？
 
@@ -32,12 +32,14 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 135 期**：[**Kotlin中的可见性修饰符有哪些？相比于Java有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/140)
-- **第 134 期**：[**MVP中你是如何处理Presenter层以防止内存泄漏的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/139)
-- **第 133 期**：[**Activity中onNewIntent方法的调用时机和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/138)
-- **第 132 期**：[**什么是悲观锁和乐观锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/133)
-- **第 131 期**：[**请谈谈你是如何进行多渠道打包的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/132)
-- **第 130 期**：[**谈一谈获取View宽高的几种方法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
+- **第 128 期**：[**什么是JNI？具体说说如何实现Java与C++的互调？**](https://github.com/Moosphan/Android-Daily-Interview/issues/142)
+- **第 127 期**：[**请谈谈Java的内存回收机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/141)
+- **第 126 期**：[**Kotlin中的可见性修饰符有哪些？相比于Java有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/140)
+- **第 125 期**：[**MVP中你是如何处理Presenter层以防止内存泄漏的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/139)
+- **第 124 期**：[**Activity中onNewIntent方法的调用时机和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/138)
+- **第 123 期**：[**什么是悲观锁和乐观锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/133)
+- **第 122 期**：[**请谈谈你是如何进行多渠道打包的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/132)
+- **第 121 期**：[**谈一谈获取View宽高的几种方法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/131)
 - **第 120 期**：[**为什么推荐用SparseArray代替HashMap？**](https://github.com/Moosphan/Android-Daily-Interview/issues/130)
 - **第 119 期**：[**谈一谈TCP/IP三次握手，四次挥手？**](https://github.com/Moosphan/Android-Daily-Interview/issues/129)
 - **第 118 期**：[**Kotlin 中 infix 关键字的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/128)
