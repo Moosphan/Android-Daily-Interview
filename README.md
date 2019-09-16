@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-09-12）
+## 今日面试题 （2019-09-16）
 
-### [你觉得Kotlin与Java混合开发时需要注意哪些问题？](https://github.com/Moosphan/Android-Daily-Interview/issues/146)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/146)
+### [什么是红黑树？为什么要用红黑树？](https://github.com/Moosphan/Android-Daily-Interview/issues/147)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/147)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 132 期**：[**你觉得Kotlin与Java混合开发时需要注意哪些问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/146)
 - **第 131 期**：[**谈谈Android10更新了哪些内容?如何进行适配? **](https://github.com/Moosphan/Android-Daily-Interview/issues/145)
 - **第 130 期**：[**如何计算一张图片所占的内存空间大小？**](https://github.com/Moosphan/Android-Daily-Interview/issues/144)
 - **第 129 期**：[**请谈谈策略模式原理及其应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/143)
