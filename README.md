@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-09-26）
 
-### [说说ContentProvider、ContentResolver、ContentObserver 之间的关系](https://github.com/Moosphan/Android-Daily-Interview/issues/155)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
+### [说说ContentProvider、ContentResolver、ContentObserver 之间的关系？](https://github.com/Moosphan/Android-Daily-Interview/issues/155)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
 
 ## 如何贡献？
 
