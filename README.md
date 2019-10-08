@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-09-29）
+## 今日面试题 （2019-10-08）
 
-### [谈谈如何看待Flutter，React Native与Android关系？](https://github.com/Moosphan/Android-Daily-Interview/issues/158)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/158)
+### [如何获取Android设备唯一ID？](https://github.com/Moosphan/Android-Daily-Interview/issues/159)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/159)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 138 期**：[**谈谈如何看待Flutter，React Native与Android关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/158)
 - **第 137 期**：[**请简述Apk的安装过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/157)
 - **第 136 期**：[**getDimension、getDimensionPixelOffset 和 getDimensionPixelSize 三者的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/156)
 - **第 135 期**：[**说说ContentProvider、ContentResolver、ContentObserver 之间的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
