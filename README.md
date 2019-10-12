@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-11）
+## 今日面试题 （2019-10-12）
 
-### [说说你对Java注解的理解？](https://github.com/Moosphan/Android-Daily-Interview/issues/162)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
+### [PathClassLoader和DexClassLoader有何区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/163)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/163)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 142 期**：[**说说你对Java注解的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
 - **第 141 期**：[**请谈谈Fragment的生命周期？**](https://github.com/Moosphan/Android-Daily-Interview/issues/161)
 - **第 140 期**：[**谈一谈LeakCanray的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/160)
 - **第 139 期**：[**如何获取Android设备唯一ID？**](https://github.com/Moosphan/Android-Daily-Interview/issues/159)
