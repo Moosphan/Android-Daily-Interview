@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-14）
+## 今日面试题 （2019-10-15）
 
-### [在Kotlin中，何为解构？该如何使用？](https://github.com/Moosphan/Android-Daily-Interview/issues/164)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
+### [静态代理和动态代理的区别，什么场景使用？](https://github.com/Moosphan/Android-Daily-Interview/issues/165)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/165)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 144 期**：[**在Kotlin中，何为解构？该如何使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
 - **第 143 期**：[**PathClassLoader和DexClassLoader有何区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/163)
 - **第 142 期**：[**说说你对Java注解的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
 - **第 141 期**：[**请谈谈Fragment的生命周期？**](https://github.com/Moosphan/Android-Daily-Interview/issues/161)
