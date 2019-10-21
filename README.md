@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-16）
+## 今日面试题 （2019-10-21）
 
-### [说说Activity加载的流程？](https://github.com/Moosphan/Android-Daily-Interview/issues/168)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
+### [在Kotlin中，什么是内联函数？有什么作用？](https://github.com/Moosphan/Android-Daily-Interview/issues/169)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/169)
 
 ## 如何贡献？
 
@@ -32,7 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 147 期**：[**[什么是快速排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/167)
+- **第 148 期**：[**说说Activity加载的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
+- **第 147 期**：[**什么是快速排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/167)
 - **第 146 期**：[**Java与JS代码如何互调？有做过相关优化吗？**](https://github.com/Moosphan/Android-Daily-Interview/issues/166)
 - **第 145 期**：[**静态代理和动态代理的区别，什么场景使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/165)
 - **第 144 期**：[**在Kotlin中，何为解构？该如何使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
