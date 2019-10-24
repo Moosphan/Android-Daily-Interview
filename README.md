@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-23）
+## 今日面试题 （2019-10-24）
 
-### [请谈谈什么是同步屏障？](https://github.com/Moosphan/Android-Daily-Interview/issues/171)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
+### [谈一谈Android P禁用http对我们开发有什么影响？](https://github.com/Moosphan/Android-Daily-Interview/issues/172)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/172)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 150 期**：[**请谈谈什么是同步屏障？**](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
 - **第 149 期**：[**Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/170)
 - **第 148 期**：[**在Kotlin中，什么是内联函数？有什么作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/169)
 - **第 148 期**：[**说说Activity加载的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
