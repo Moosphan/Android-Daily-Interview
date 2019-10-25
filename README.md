@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-24）
+## 今日面试题 （2019-10-25）
 
-### [谈一谈Android P禁用http对我们开发有什么影响？](https://github.com/Moosphan/Android-Daily-Interview/issues/172)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/172)
+### [请谈谈源码中StaticLayout的用法和应用场景？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/174)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/174)
 
 ## 如何贡献？
 
@@ -32,24 +32,25 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 150 期**：[**请谈谈什么是同步屏障？**](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
-- **第 149 期**：[**Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/170)
-- **第 148 期**：[**在Kotlin中，什么是内联函数？有什么作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/169)
-- **第 148 期**：[**说说Activity加载的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
-- **第 147 期**：[**什么是快速排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/167)
-- **第 146 期**：[**Java与JS代码如何互调？有做过相关优化吗？**](https://github.com/Moosphan/Android-Daily-Interview/issues/166)
-- **第 145 期**：[**静态代理和动态代理的区别，什么场景使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/165)
-- **第 144 期**：[**在Kotlin中，何为解构？该如何使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
-- **第 143 期**：[**PathClassLoader和DexClassLoader有何区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/163)
-- **第 142 期**：[**说说你对Java注解的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
-- **第 141 期**：[**请谈谈Fragment的生命周期？**](https://github.com/Moosphan/Android-Daily-Interview/issues/161)
-- **第 140 期**：[**谈一谈LeakCanray的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/160)
-- **第 139 期**：[**如何获取Android设备唯一ID？**](https://github.com/Moosphan/Android-Daily-Interview/issues/159)
-- **第 138 期**：[**谈谈如何看待Flutter，React Native与Android关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/158)
-- **第 137 期**：[**请简述Apk的安装过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/157)
-- **第 136 期**：[**getDimension、getDimensionPixelOffset 和 getDimensionPixelSize 三者的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/156)
-- **第 135 期**：[**说说ContentProvider、ContentResolver、ContentObserver 之间的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
-- **第 134 期**：[**如何优化 Gradle 的构建速度？**](https://github.com/Moosphan/Android-Daily-Interview/issues/154)
+- **第 158 期**：[**谈一谈Android P禁用http对我们开发有什么影响？**](https://github.com/Moosphan/Android-Daily-Interview/issues/173)
+- **第 157 期**：[**请谈谈什么是同步屏障？**](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
+- **第 156 期**：[**Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/170)
+- **第 155 期**：[**在Kotlin中，什么是内联函数？有什么作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/169)
+- **第 154 期**：[**说说Activity加载的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/168)
+- **第 153 期**：[**什么是快速排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/167)
+- **第 152 期**：[**Java与JS代码如何互调？有做过相关优化吗？**](https://github.com/Moosphan/Android-Daily-Interview/issues/166)
+- **第 151 期**：[**静态代理和动态代理的区别，什么场景使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/165)
+- **第 150 期**：[**在Kotlin中，何为解构？该如何使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/164)
+- **第 149 期**：[**PathClassLoader和DexClassLoader有何区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/163)
+- **第 148 期**：[**说说你对Java注解的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/162)
+- **第 147 期**：[**请谈谈Fragment的生命周期？**](https://github.com/Moosphan/Android-Daily-Interview/issues/161)
+- **第 146 期**：[**谈一谈LeakCanray的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/160)
+- **第 145 期**：[**如何获取Android设备唯一ID？**](https://github.com/Moosphan/Android-Daily-Interview/issues/159)
+- **第 144 期**：[**谈谈如何看待Flutter，React Native与Android关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/158)
+- **第 143 期**：[**请简述Apk的安装过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/157)
+- **第 142 期**：[**getDimension、getDimensionPixelOffset 和 getDimensionPixelSize 三者的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/156)
+- **第 141 期**：[**说说ContentProvider、ContentResolver、ContentObserver 之间的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/155)
+- **第 140 期**：[**如何优化 Gradle 的构建速度？**](https://github.com/Moosphan/Android-Daily-Interview/issues/154)
 - **第 139 期**：[**String为什么要设计成不可变的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/153)
 - **第 138 期**：[**有没有遇到64k问题，应该如何解决？**](https://github.com/Moosphan/Android-Daily-Interview/issues/152)
 - **第 137 期**：[**Intent传输数据的大小有限制吗？如何解决？**](https://github.com/Moosphan/Android-Daily-Interview/issues/151)
