@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-28）
+## 今日面试题 （2019-10-29）
 
-### [有用过ConstraintLayout吗？它有哪些特点？ ](https://github.com/Moosphan/Android-Daily-Interview/issues/175)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/175)
+### [谈一谈EventBus的原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/176)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/176)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 160 期**：[**有用过ConstraintLayout吗？它有哪些特点？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/175)
 - **第 159 期**：[**请谈谈源码中StaticLayout的用法和应用场景？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/174)
 - **第 158 期**：[**谈一谈Android P禁用http对我们开发有什么影响？**](https://github.com/Moosphan/Android-Daily-Interview/issues/173)
 - **第 157 期**：[**请谈谈什么是同步屏障？**](https://github.com/Moosphan/Android-Daily-Interview/issues/171)
