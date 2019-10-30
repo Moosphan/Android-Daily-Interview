@@ -62,7 +62,7 @@
 - **第 134 期**：[**谈一谈插值器和估值器？**](https://github.com/Moosphan/Android-Daily-Interview/issues/148)
 - **第 133 期**：[**什么是红黑树？为什么要用红黑树？**](https://github.com/Moosphan/Android-Daily-Interview/issues/147)
 - **第 132 期**：[**你觉得Kotlin与Java混合开发时需要注意哪些问题？**](https://github.com/Moosphan/Android-Daily-Interview/issues/146)
-- **第 131 期**：[**谈谈Android10更新了哪些内容?如何进行适配? **](https://github.com/Moosphan/Android-Daily-Interview/issues/145)
+- **第 131 期**：[**谈谈Android10更新了哪些内容?如何进行适配?**](https://github.com/Moosphan/Android-Daily-Interview/issues/145)
 - **第 130 期**：[**如何计算一张图片所占的内存空间大小？**](https://github.com/Moosphan/Android-Daily-Interview/issues/144)
 - **第 129 期**：[**请谈谈策略模式原理及其应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/143)
 - **第 128 期**：[**什么是JNI？具体说说如何实现Java与C++的互调？**](https://github.com/Moosphan/Android-Daily-Interview/issues/142)
