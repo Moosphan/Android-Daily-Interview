@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-10-31）
+## 今日面试题 （2019-11-01）
 
-### [谈一谈Fragment懒加载？](https://github.com/Moosphan/Android-Daily-Interview/issues/178)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/178)
+### [什么是AOP？在Android中它有哪些应用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/179)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/179)
 
 ## 如何贡献？
 
@@ -32,7 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
-- **第 161 期**：[**关于LayoutInflater，它是如何通过 inflate 方法获取到具体View的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/177)
+- **第 163 期**：[**谈一谈Fragment懒加载？**](https://github.com/Moosphan/Android-Daily-Interview/issues/178)
+- **第 162 期**：[**关于LayoutInflater，它是如何通过 inflate 方法获取到具体View的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/177)
 - **第 161 期**：[**谈一谈EventBus的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/176)
 - **第 160 期**：[**有用过ConstraintLayout吗？它有哪些特点？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/175)
 - **第 159 期**：[**请谈谈源码中StaticLayout的用法和应用场景？** ](https://github.com/Moosphan/Android-Daily-Interview/issues/174)
