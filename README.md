@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-11-06）
+## 今日面试题 （2019-11-07）
 
-### [什么是MVVM？你是如何将其应用于具体项目中的？](https://github.com/Moosphan/Android-Daily-Interview/issues/182)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/181)
+### [谈一谈责任链模式的使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/183)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/183)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 167 期**：[**什么是MVVM？你是如何将其应用于具体项目中的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/182)
 - **第 166 期**：[**谈谈RecyclerView的缓存机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/181)
 - **第 165 期**：[**谈谈Kotlin中的构造方法？有哪些注意事项？**](https://github.com/Moosphan/Android-Daily-Interview/issues/180)
 - **第 164 期**：[**什么是AOP？在Android中它有哪些应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/179)
