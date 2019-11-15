@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-11-14）
+## 今日面试题 （2019-11-15）
 
-### [谈谈Kotlin中的Sequence，为什么它处理集合操作更加高效？](https://github.com/Moosphan/Android-Daily-Interview/issues/188)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/188)
+### [说说循环队列？](https://github.com/Moosphan/Android-Daily-Interview/issues/189)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/189)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 173 期**：[**谈谈Kotlin中的Sequence，为什么它处理集合操作更加高效？**](https://github.com/Moosphan/Android-Daily-Interview/issues/188)
 - **第 172 期**：[**谈一谈Android的签名机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/187)
 - **第 171 期**：[**请谈谈invalidate()和postInvalidate()方法的区别和应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/186)
 - **第 170 期**：[**请谈谈View.inflate和LayoutInflater.inflate**](https://github.com/Moosphan/Android-Daily-Interview/issues/185)
