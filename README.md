@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-11-22）
 
-### [什么是BlockingQueue？请分析一下其内部原理并谈谈它的使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/194)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/194)
+### [Kotlin中可见型修饰符有哪些？相比于Java有什么区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/196)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/196)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 179 期**：[**什么是BlockingQueue？请分析一下其内部原理并谈谈它的使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/194)
 - **第 178 期**：[**谈谈网络请求中的拦截器 - Interceptor 的原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/193)
 - **第 177 期**：[**假如让你实现断点上传功能，你认为应该怎样去做？**](https://github.com/Moosphan/Android-Daily-Interview/issues/192)
 - **第 176 期**：[**谈一谈自定义View和ViewGroup的流程以及区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/191)
