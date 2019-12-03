@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-02）
+## 今日面试题 （2019-12-03）
 
-### [Kotlin中该如何安全地处理可空类型？](https://github.com/Moosphan/Android-Daily-Interview/issues/201)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/201)
+### [谈一谈RecyclerView.Adapter的几种刷新方式有何不同？](https://github.com/Moosphan/Android-Daily-Interview/issues/202)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/202)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 185 期**：[**Kotlin中该如何安全地处理可空类型？**](https://github.com/Moosphan/Android-Daily-Interview/issues/201)
 - **第 184 期**：[**webp和svg格式的图片各自有什么特点？应该如何在Android中使用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/200)
 - **第 183 期**：[**谈一谈SurfaceView与TextureView的使用场景和用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/199)
 - **第 182 期**：[**谈谈Kotlin中的Unit？它和Java中的void有什么区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/198)
