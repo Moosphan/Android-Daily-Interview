@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-06）
+## 今日面试题 （2019-12-09）
 
-### [ViewModel的出现是为了解决什么问题？并简要说说它的内部原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/205)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/205)
+### [请谈谈如何加载Bitmap并防止内存溢出？](https://github.com/Moosphan/Android-Daily-Interview/issues/207)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/207)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 189 期**：[**ViewModel的出现是为了解决什么问题？并简要说说它的内部原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/205)
 - **第 188 期**：[**谈一谈ViewDragHelper的工作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/204)
 - **第 187 期**：[**谈谈你对Window和WindowManager的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/203)
 - **第 186 期**：[**谈一谈RecyclerView.Adapter的几种数据刷新方式有何不同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/202)
