@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-12）
+## 今日面试题 （2019-12-13）
 
-### [谈一谈屏幕刷新机制？](https://github.com/Moosphan/Android-Daily-Interview/issues/210)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/210)
+### [请说说依赖注入框架ButterKnife的实现原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/211)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/211)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 193 期**：[**谈一谈Android的屏幕刷新机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/210)
 - **第 192 期**：[**说说Kotlin中的Any与Java中的Object有何异同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/209)
 - **第 191 期**：[**谈一谈java线程安全的集合有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/208)
 - **第 190 期**：[**请谈谈如何加载Bitmap并防止内存溢出？**](https://github.com/Moosphan/Android-Daily-Interview/issues/207)
