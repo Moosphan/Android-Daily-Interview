@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-12-16）
 
-### [说说你是如何进行单元测试的？以及如何应用在在MVP和MVVM中？](https://github.com/Moosphan/Android-Daily-Interview/issues/212)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
+### [说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？](https://github.com/Moosphan/Android-Daily-Interview/issues/212)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
 
 ## 如何贡献？
 
