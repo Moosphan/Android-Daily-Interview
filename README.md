@@ -20,7 +20,7 @@
 
 ## 今日面试题 （2019-12-16）
 
-### [说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？](https://github.com/Moosphan/Android-Daily-Interview/issues/212)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
+### [谈一谈Activity，View，Window三者的关系？](https://github.com/Moosphan/Android-Daily-Interview/issues/213)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/213)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 195 期**：[**说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？**](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
 - **第 194 期**：[**请说说依赖注入框架ButterKnife的实现原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/211)
 - **第 193 期**：[**谈一谈Android的屏幕刷新机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/210)
 - **第 192 期**：[**说说Kotlin中的Any与Java中的Object有何异同？**](https://github.com/Moosphan/Android-Daily-Interview/issues/209)
