@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-16）
+## 今日面试题 （2019-12-18）
 
-### [谈一谈Activity，View，Window三者的关系？](https://github.com/Moosphan/Android-Daily-Interview/issues/213)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/213)
+### [如何绕过Android9.0针对反射的限制？](https://github.com/Moosphan/Android-Daily-Interview/issues/214)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/214)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 196 期**：[**谈一谈Activity、View 和 Window三者的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/213)
 - **第 195 期**：[**说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？**](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
 - **第 194 期**：[**请说说依赖注入框架ButterKnife的实现原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/211)
 - **第 193 期**：[**谈一谈Android的屏幕刷新机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/210)
