@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-19）
+## 今日面试题 （2019-12-20）
 
-### [谈一谈Java成员变量，局部变量和静态变量的创建和回收时机？](https://github.com/Moosphan/Android-Daily-Interview/issues/215)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/215)
+### [有了解过WindowInsets吗？它有哪些应用？](https://github.com/Moosphan/Android-Daily-Interview/issues/216)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/216)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 198 期**：[**谈一谈Java成员变量，局部变量和静态变量的创建和回收时机？**](https://github.com/Moosphan/Android-Daily-Interview/issues/215)
 - **第 197 期**：[**如何绕过Android9.0针对反射的限制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/214)
 - **第 196 期**：[**谈一谈Activity、View 和 Window三者的关系？**](https://github.com/Moosphan/Android-Daily-Interview/issues/213)
 - **第 195 期**：[**说说你是如何进行单元测试的？以及如何应用在MVP和MVVM中？**](https://github.com/Moosphan/Android-Daily-Interview/issues/212)
