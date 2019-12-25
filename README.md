@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-24）
+## 今日面试题 （2019-12-25）
 
-### [为什么说Http是可靠的数据传输协议？](https://github.com/Moosphan/Android-Daily-Interview/issues/218)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/218)
+### [对于GIF 格式的图片加载有什么思路和建议？](https://github.com/Moosphan/Android-Daily-Interview/issues/219)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/219)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 201 期**：[**为什么说Http是可靠的数据传输协议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/218)
 - **第 200 期**：[**Kotlin中的数据类型有隐式转换吗？为什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/217)
 - **第 199 期**：[**有了解过WindowInsets吗？它有哪些应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/216)
 - **第 198 期**：[**谈一谈Java成员变量，局部变量和静态变量的创建和回收时机？**](https://github.com/Moosphan/Android-Daily-Interview/issues/215)
