@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2019-12-26）
+## 今日面试题 （2019-12-27）
 
-### [Android几种位移的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/220)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/220)
+### [说说HttpClient与HttpUrlConnection的区别？为何前者会被替代？](https://github.com/Moosphan/Android-Daily-Interview/issues/221)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/221)
 
 ## 如何贡献？
 
@@ -32,6 +32,8 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+
+- **第 203 期**：[**Android中View的几种位移方式的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/220)
 - **第 202 期**：[**对于GIF 格式的图片加载有什么思路和建议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/219)
 - **第 201 期**：[**为什么说Http是可靠的数据传输协议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/218)
 - **第 200 期**：[**Kotlin中的数据类型有隐式转换吗？为什么？**](https://github.com/Moosphan/Android-Daily-Interview/issues/217)
