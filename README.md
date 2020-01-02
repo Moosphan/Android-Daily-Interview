@@ -33,9 +33,10 @@
 
 ## 历史汇总区
 
-- **第 205 期**：[**TCP/IP协议分为哪几层？TCP和HTTP分别属于哪一层？**](https://github.com/Moosphan/Android-Daily-Interview/issues/223)
+- **第 206 期**：[**TCP/IP协议分为哪几层？TCP和HTTP分别属于哪一层？**](https://github.com/Moosphan/Android-Daily-Interview/issues/223)
 
-- **第 204 期**：[**说说HttpClient与HttpUrlConnection的区别？为何前者会被替代？**](https://github.com/Moosphan/Android-Daily-Interview/issues/222)
+- **第 205 期**：[**什么是Lifecycle？请分析其内部原理和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/222)
+- **第 204 期**：[**说说HttpClient与HttpUrlConnection的区别？为何前者会被替代？**](https://github.com/Moosphan/Android-Daily-Interview/issues/221)
 - **第 203 期**：[**Android中View的几种位移方式的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/220)
 - **第 202 期**：[**对于GIF 格式的图片加载有什么思路和建议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/219)
 - **第 201 期**：[**为什么说Http是可靠的数据传输协议？**](https://github.com/Moosphan/Android-Daily-Interview/issues/218)
