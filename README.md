@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2020-01-10）
+## 今日面试题 （2020-01-13）
 
-### [Kotlin中集合遍历有哪几种方式？](https://github.com/Moosphan/Android-Daily-Interview/issues/231)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/231)
+### [为什么要将项目迁移到AndroidX？如何进行迁移？](https://github.com/Moosphan/Android-Daily-Interview/issues/232)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/232)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 213 期**：[**Kotlin中集合遍历有哪几种方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/231)
 - **第 212 期**：[**如何判断单链表交叉？**](https://github.com/Moosphan/Android-Daily-Interview/issues/230)
 - **第 211 期**：[**请说说Java中String.length()的运作原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/229)
 - **第 210 期**：[**谈一谈RxJava背压原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/228)
