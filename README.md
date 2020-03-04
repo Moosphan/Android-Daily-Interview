@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2020-03-03）
+## 今日面试题 （2020-03-04）
 
-### [说说ThreadLocal的使用场景？与Synchronized相比有什么特性？](https://github.com/Moosphan/Android-Daily-Interview/issues/238)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/237)
+### [试从源码角度分析Handler的post和sendMessage方法的区别和应用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/239)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/239)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 220 期**：[**说说ThreadLocal的使用场景？与Synchronized相比有什么特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/238)
 - **第 219 期**：[**Java中为什么会出现Atomic类？试分析它的原理和缺点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/237)
 - **第 218 期**：[**说说你未来的职业规划是怎样的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/236)
 - **第 217 期**：[**为什么ViewPager嵌套ViewPager，内部的ViewPager滚动没有被拦截？**](https://github.com/Moosphan/Android-Daily-Interview/issues/235)
