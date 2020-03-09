@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2020-03-06）
+## 今日面试题 （2020-03-09）
 
-### [什么是JMM？它存在哪些问题？该如何解决？](https://github.com/Moosphan/Android-Daily-Interview/issues/240)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/240)
+### [谈谈Https的加密过程？](https://github.com/Moosphan/Android-Daily-Interview/issues/241)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/241)
 
 ## 如何贡献？
 
@@ -32,6 +32,7 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 222 期**：[**什么是JMM？它存在哪些问题？该如何解决？**](https://github.com/Moosphan/Android-Daily-Interview/issues/240)
 - **第 221 期**：[**试从源码角度分析Handler的post和sendMessage方法的区别和应用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/239)
 - **第 220 期**：[**说说ThreadLocal的使用场景？与Synchronized相比有什么特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/238)
 - **第 219 期**：[**Java中为什么会出现Atomic类？试分析它的原理和缺点？**](https://github.com/Moosphan/Android-Daily-Interview/issues/237)
