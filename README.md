@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
-## 今日面试题 （2020-03-09）
+## 后续计划
 
-### [谈谈Https的加密过程？](https://github.com/Moosphan/Android-Daily-Interview/issues/241)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/241)
+#### 经过反复思考和收集意见，现决定将每日一题任务**暂时**关闭，后续将集中精力去提升本项目的质量和完善题解，感谢大家一直以来的支持，继续无畏前行💪
 
 ## 如何贡献？
 
