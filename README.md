@@ -1,4 +1,4 @@
-![banner](./arts/banner.png)
+![banner](./android-interview/arts/banner.png)
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Android 知识图谱
 
-![android_constructions](./arts/android_constructions.png)
+![android_constructions](./android-interview/arts/android_constructions.png)
 
 ## 后续计划
 
