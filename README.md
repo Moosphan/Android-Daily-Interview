@@ -1,4 +1,4 @@
-![banner](/Users/moos/github/Android-Daily-Interview/android-interview/arts/banner.png)
+![banner](./arts/banner.png)
 
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Android 知识图谱
 
-![android_constructions](/Users/moos/github/Android-Daily-Interview/android-interview/arts/android_constructions.png)
+![android_constructions](./arts/android_constructions.png)
 
 ## 后续计划
 
