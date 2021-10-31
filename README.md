@@ -1,13 +1,9 @@
-<p align="center">
-  <a href="https://github.com/Moosphan/Android-Daily-Interview" target="_blank">
-	  <img src="https://raw.githubusercontent.com/Moosphan/SelfAssetRepository/9771fdbac7a687011cd2f286eccd97a7ffeea27b/github/images/interview_logo.png" width="400" height="216"/>
-  </a>
-</p>
+![banner](/Users/moos/github/Android-Daily-Interview/android-interview/arts/banner.png)
+
 
 <p align="center">
   <a href="#主要面向对象"><img src="https://img.shields.io/badge/%E9%9D%A2%E5%90%91-Android%E5%BC%80%E5%8F%91-%232CC159.svg"></a>
   <a href="https://github.com/Moosphan/Android-Daily-Interview/issues"><img src="https://img.shields.io/github/issues-raw/moosphan/Android-Daily-Interview.svg?color=%23dd5656&label=%E5%BD%93%E5%89%8D%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B0"></a>
-  <a href="#交流"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-713463651-blue.svg"></a>
   <a href="#贡献"><img src="https://img.shields.io/badge/Welcome-%E5%8A%A0%E5%85%A5%E6%88%91%E4%BB%AC-orange.svg" alt="如何贡献？"></a>
   <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-wanandroid-%23095B87.svg" alt="Thanks"></a>
 </p>
@@ -18,11 +14,15 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:rainbow_flag:
 
+## Android 知识图谱
+
+![android_constructions](/Users/moos/github/Android-Daily-Interview/android-interview/arts/android_constructions.png)
+
 ## 后续计划
 
 - 面试题收集
 - 往期面试题分类整理
-- 提供往期面试题索引
+- 提供[往期面试题索引](https://github.com/Moosphan/Android-Daily-Interview/blob/master/android-interview/interivew-history.md)
 - 维护人员招募
 - 每期面试题的解析归纳
 - GitBook 的编纂
@@ -69,7 +69,7 @@ Java 常见考察知识点可大致分为以下几部分：
 - [谈谈 Java 中 List、Set 以及 Map 的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/120)
 
 - [谈谈 ArrayList 和 LinkedList 的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/36)
-- [请说一下HashMap与HashTable的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/39)
+- [请说一下 HashMap 与 HashTable 的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/39)
 - [说一说 ArrayList 的扩容机制？](https://github.com/Moosphan/Android-Daily-Interview/issues/64)
 - [HashMap 的实现原理？](https://github.com/Moosphan/Android-Daily-Interview/issues/16)
 - [请简述 LinkedHashMap 的工作原理和使用场景？](https://github.com/Moosphan/Android-Daily-Interview/issues/45)
@@ -347,5 +347,4 @@ Android 考察点比较纷杂，以下针对之前收录的面试题做一个大
 ## 最后
 
 > 建立这个项目的初衷是想大家每天以**答题打卡**的方式来巩固基础知识和查漏补缺。我相信，如果每天能够坚持打卡，不出一个月定能意识到自己的成长。因此，对于想要和我们一样坚持的同学，欢迎来加群探讨，群号**713463651**，请特别备注：**坚持打卡**。
-
 
