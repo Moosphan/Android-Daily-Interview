@@ -36,7 +36,7 @@
 1. 参与每日答题，在[**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
 2. 参与[**往期面试题的归纳、总结、完善或者扩展**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，稳固基石！
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
-4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
+4. 你也可以加入QQ群，参与本项目的维护或者讨论：**907138599**
 
 ## 面试题分类汇总
 
