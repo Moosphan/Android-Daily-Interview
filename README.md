@@ -34,9 +34,14 @@
 想加入这件有意义的事，并成为[**贡献者**](https://github.com/Moosphan/Android-Daily-Interview/blob/HEAD/android-interview/contributors.md)一员？很简单，你可以选择以下方式来完善和壮大这个项目：
 
 1. 参与每日答题，在[**答题区**](https://github.com/Moosphan/Android-Daily-Interview/issues)留下你的见解，让更多人认识你！
+
 2. 参与[**往期面试题的归纳、总结、完善或者扩展**](https://github.com/Moosphan/Android-Daily-Interview/issues/113)，稳固基石！
+
 3. 前往👉[**后续面试题征集区域**](https://github.com/Moosphan/Android-Daily-Interview/issues/20)，提供更多优质面试题～
-4. 你也可以加入QQ群，参与本项目的维护或者讨论：**907138599**
+
+4. 你也可以加入QQ群，参与本项目的维护或者讨论：*661759211*
+
+   > 也可以加入我们的 [Slack 小组](https://join.slack.com/t/slack-nms1128/shared_invite/zt-1tb5rhtx0-yDj0YaRUzjtgAyUeKG8ckg)，为 AI 续杯🍻
 
 ## 面试题分类汇总
 
@@ -346,4 +351,4 @@ Android 考察点比较纷杂，以下针对之前收录的面试题做一个大
 
 ## 最后
 
-> 建立这个项目的初衷是想大家每天以**答题打卡**的方式来巩固基础知识和查漏补缺。我相信，如果每天能够坚持打卡，不出一个月定能意识到自己的成长。因此，对于想要和我们一样坚持的同学，欢迎来加群探讨，群号**907138599**，入群口令：**Google**。
+> 建立这个项目的初衷是想大家每天以**答题打卡**的方式来巩固基础知识和查漏补缺。我相信，如果每天能够坚持打卡，不出一个月定能意识到自己的成长。因此，对于想要和我们一样坚持的同学，欢迎来加群探讨，群号 **661759211**，入群口令：**Google**。
