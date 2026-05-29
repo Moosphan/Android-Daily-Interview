@@ -45,8 +45,8 @@
 
 ## 感谢赞助
 
-| <img src="./arts/doloffer_logo.png" style="zoom:25%;" /> | Doloffer 提供 ChatGPT、Claude 等正版会员订阅，高效稳定、价格优惠、售后无忧，直达官网[*https://doloffer.com*](https://doloffer.com/) 使用优惠码 **AI8888** 享9折。 |
-| -------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="./android-interview/arts/doloffer_logo.png" style="zoom:25%;" /> | Doloffer 提供 ChatGPT、Claude 等正版会员订阅，高效稳定、价格优惠、售后无忧，直达官网[*https://doloffer.com*](https://doloffer.com/) 使用优惠码 **AI8888** 享9折。 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
