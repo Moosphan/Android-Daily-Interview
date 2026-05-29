@@ -43,6 +43,13 @@
 
    > 也可以加入我们的 [Slack 小组](https://join.slack.com/t/slack-nms1128/shared_invite/zt-1tb5rhtx0-yDj0YaRUzjtgAyUeKG8ckg)，为 AI 续杯🍻
 
+## 感谢赞助
+
+| <img src="./arts/doloffer_logo.png" style="zoom:25%;" /> | Doloffer 提供 ChatGPT、Claude 等正版会员订阅，高效稳定、价格优惠、售后无忧，直达官网[*https://doloffer.com*](https://doloffer.com/) 使用优惠码 **AI8888** 享9折。 |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+
+
+
 ## 面试题分类汇总
 
 以下主要针对往期收录的面试题进行一个分类归纳整理，方便大家统一回顾和参考。
